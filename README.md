@@ -37,11 +37,4 @@ You can click the Preview link to take a look at your changes.
       <p align="center"><strong>📫 Reach out to me:</strong> <a href="mailto:chintanbaraiya2003@gmail.com">chintanbaraiya2003@gmail.com</a></p>
     </td>
   </tr>
-  <style>
-  .frame {
-    border: 2px solid black;
-    padding: 20px;
-    border-radius: 10px;
-  }
-</style>
 </table>
